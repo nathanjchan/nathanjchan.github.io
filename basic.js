@@ -31,5 +31,5 @@ document.getElementById("lowmenu").innerHTML =
     '<td><a href = "https://www.linkedin.com/in/nathanjchan/" target = "_blank">LinkedIn</a></td>' +
     '<td><a href = "https://www.github.com/nathanjchan/" target = "_blank">GitHub</a></td>' +
     '<td><a href = "https://nathanjchan.github.io/resume.pdf" target = "_blank">Resume</a></td>' +
-    '<td>Nathan J. Chan © 2018</td>' +
+    '<td>Nathan Chan © 2018</td>' +
     '</table></p></center><br></font>'
