@@ -14,22 +14,22 @@
     'hr {margin-top: 2em; margin-bottom: 2em; border-radius: 25px;}' +
     '</style>'
 document.getElementById("topmenu").innerHTML =
-    '<br><center><table><td><font face = "helvetica" color = "black" size = 5><b>Nathan J. Chan</b></td></font>' +
-    '<td><font face = "helvetica" color = "black" size = 4><a href = "mailto:njc@nathanjchan.com" target = "_blank">njc@nathanjchan.com</a></font></td>' +
+    '<br><center><table><td><font face = "helvetica" color = "black" size = 5><b>Nathan Chan</b></td></font>' +
+    '<td><font face = "helvetica" color = "black" size = 4><a href = "mailto:nathanjchan2@gmail.com" target = "_blank">nathanjchan2@gmail.com</a></font></td>' +
     '<td><font face = "helvetica" color = "black" size = 4><a href = "tel:6504303780" target = "_blank">(650) 430-3780</a></font></td>' +
-    '</table></center>' + // <td><img style="display:block; border-radius: 16px;" src="https://www.nathanjchan.com/picture.jpg" width="139" height="139" /></td>
+    '</table></center>' + // <td><img style="display:block; border-radius: 16px;" src="https://nathanjchan.github.io/picture.jpg" width="139" height="139" /></td>
     '<font face = "helvetica" color = "black" size = 4><center><p><table>' +
-    '<td><a href = "https://www.nathanjchan.com/">Home</a></td>' +
-    '<td><a href = "https://www.nathanjchan.com/coding/">Coding</a></td>' +
-    '<td><a href = "https://www.nathanjchan.com/research/">Research</a></td>' +
-    '<td><a href = "https://www.nathanjchan.com/politics/">Politics</a></td>' +
-    '<td><a href = "https://www.nathanjchan.com/awards/">Awards</a></td>' +
-    '<td><a href = "https://www.nathanjchan.com/artistry/">Artistry</a></td>' +
+    '<td><a href = "https://nathanjchan.github.io/">Home</a></td>' +
+    '<td><a href = "https://nathanjchan.github.io/coding/">Coding</a></td>' +
+    '<td><a href = "https://nathanjchan.github.io/research/">Research</a></td>' +
+    '<td><a href = "https://nathanjchan.github.io/politics/">Politics</a></td>' +
+    '<td><a href = "https://nathanjchan.github.io/awards/">Awards</a></td>' +
+    '<td><a href = "https://nathanjchan.github.io/artistry/">Artistry</a></td>' +
     '</td></table></p></center></font>'
 document.getElementById("lowmenu").innerHTML =
     '<font face = "helvetica" color = "black" size = 4><center><p><table>' +
     '<td><a href = "https://www.linkedin.com/in/nathanjchan/" target = "_blank">LinkedIn</a></td>' +
     '<td><a href = "https://www.github.com/nathanjchan/" target = "_blank">GitHub</a></td>' +
-    '<td><a href = "https://www.nathanjchan.com/resume.pdf" target = "_blank">Resume</a></td>' +
+    '<td><a href = "https://nathanjchan.github.io/resume.pdf" target = "_blank">Resume</a></td>' +
     '<td>Nathan J. Chan © 2018</td>' +
     '</table></p></center><br></font>'
