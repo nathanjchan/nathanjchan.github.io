@@ -9,9 +9,9 @@
     'a:hover {color: gray; text-decoration: underline;}' +
     'a:active {color: black; text-decoration: none;}' +
     'html {overflow-y: scroll;}' +
-    'td, th {padding: 8px 16px; border-radius: 25px; background-color: white;}' +
+    'td, th {padding: 8px 16px; border-radius: 10px; background-color: white;}' +
     'th {background-color: whitesmoke}' +
-    'hr {margin-top: 2em; margin-bottom: 2em; border-radius: 25px;}' +
+    'hr {margin-top: 2em; margin-bottom: 2em; border-radius: 10px;}' +
     '</style>'
 document.getElementById("topmenu").innerHTML =
     '<br><center><table><td><font face = "helvetica" color = "black" size = 5><b>Nathan Chan</b></td></font>' +
