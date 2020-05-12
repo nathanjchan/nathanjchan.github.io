@@ -37,4 +37,5 @@ document.getElementById("lowmenu").innerHTML =
     // '<td><a href = "https://www.github.com/nathanjchan/" target = "_blank">GitHub</a></td>' +
     // '<td><a href = "https://nathanjchan.github.io/resume.pdf" target = "_blank">Resume</a></td>' +
     //'<td>Nathan Chan © 2020</td>' +
+    '<td>2020</td>'
     '</table></p></center></font>'
