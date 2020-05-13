@@ -15,7 +15,7 @@
     '</style>'
 document.getElementById("topmenu").innerHTML =
     '<br><center><table><td><font face = "helvetica" color = "black" size = 5><b>Nathan Chan</b></td></font>' +
-    '<td><font face = "helvetica" color = "black" size = 4><a href = "mailto:nathanjchan2@gmail.com" target = "_blank">nathanjchan2@gmail.com</a></font></td>' +
+    '<td><font face = "helvetica" color = "black" size = 4><a href = "mailto:njchan@ucdavis.edu" target = "_blank">njchan@ucdavis.edu</a></font></td>' +
     '<td><font face = "helvetica" color = "black" size = 4><a href = "tel:6504303780" target = "_blank">(650) 430-3780</a></font></td>' +
     '</table></center>' + // <td><img style="display:block; border-radius: 16px;" src="https://nathanjchan.github.io/picture.jpg" width="139" height="139" /></td>
     // '<font face = "helvetica" color = "black" size = 4><center><p><table>' +
