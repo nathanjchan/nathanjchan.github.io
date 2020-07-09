@@ -28,7 +28,7 @@ document.getElementById("topmenu").innerHTML =
     '<font face = "helvetica" color = "black" size = 4><center><p><table>' +
     '<td><a href = "https://www.github.com/nathanjchan/" target = "_blank">GitHub</a></td>' +
     '<td><a href = "https://www.linkedin.com/in/nathanjchan/" target = "_blank">LinkedIn</a></td>' +
-    '<td><a href = "https://www.youtube.com/user/CheezyBubb1e" target = "_blank">YouTube</a></td>' +
+    //'<td><a href = "https://www.youtube.com/user/CheezyBubb1e" target = "_blank">YouTube</a></td>' +
     '<td><a href = "https://nathanjchan.github.io/resume.pdf" target = "_blank">Resume</a></td>' +
     '</td></table></p></center></font>'
 document.getElementById("lowmenu").innerHTML =
