@@ -13,7 +13,7 @@ Analyzing Data to Make Decisions"
 reading_time:       true
 words_per_minute:   200
 logo:               'images/green_square.jpg'
-background:         'images/japan.JPG'
+background:         'images/japan.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://nathanjchan.github.io
@@ -32,9 +32,6 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
-
-# Comments
-#disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
