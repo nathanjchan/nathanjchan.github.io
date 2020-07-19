@@ -4,8 +4,8 @@ bio:                'Data Scientist and Software Engineer\nStatistics and Comput
 description:        "Data Scientist and Software Engineer\nStatistics and Computer Science Student\nAnalyzing Data to Make Decisions"
 reading_time:       true
 words_per_minute:   200
-logo:               'images/green_small.jpg'
-background:         'images/green.jpg'
+logo:               'images/green_square.jpg'
+background:         'images/japan.JPG'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://nathanjchan.github.io
