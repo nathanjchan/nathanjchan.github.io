@@ -4,7 +4,7 @@ bio:                'Data Scientist and Software Engineer - Statistics and Compu
 description:        "Data Scientist and Software Engineer - Statistics and Computer Science Student - Analyzing Data to Make Decisions"
 reading_time:       true
 words_per_minute:   200
-logo:               'favicon.png'
+logo:               'green_small.jpg'
 background:         'green.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
