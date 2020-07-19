@@ -1,15 +1,7 @@
 # Site
 title:              Nathan Chan
-bio: |              'Data Scientist and Software Engineer
-\n
-Statistics and Computer Science Student
-\n
-Analyzing Data to Make Decisions'
-description: |      "Data Scientist and Software Engineer
-\n
-Statistics and Computer Science Student
-\n
-Analyzing Data to Make Decisions"
+bio:               'Data Scientist and Software Engineer - Statistics and Computer Science Student - Analyzing Data to Make Decisions'
+description:       "Data Scientist and Software Engineer - Statistics and Computer Science Student - Analyzing Data to Make Decisions"
 reading_time:       true
 words_per_minute:   200
 logo:               'images/green_square.jpg'
